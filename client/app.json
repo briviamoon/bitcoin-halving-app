@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "bitcoin-halving-client",
+    "slug": "bitcoin-halving-client",
+    "version": "1.0.0",
+    "description": "Client for Bitcoin halving app",
+    "sdkVersion": "50.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "android": {
+      "package": "com.anonymous.bitcoinhalvingclient"
+    }
+  }
+}

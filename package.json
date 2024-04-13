@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "expo-permissions": "^14.4.0",
+    "unimodules-permissions-interface": "^6.1.0"
+  }
+}
